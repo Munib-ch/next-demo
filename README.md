@@ -1,4 +1,5 @@
 # Next.js-14-demo
-first repository 
+
+first repository
 <br>
-Author - Munib ch
+Author - Munib ch Developer
